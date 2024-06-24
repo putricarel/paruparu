@@ -32,7 +32,7 @@ Aktivitas merokok menjadi salah satu penyebab sumber penyakit, tidak hanya berda
 dokter spesialis paru yang ada tidak akan mampu menanganinya. Ini merupakan permasalahan yang harus diatasi. Pengguna dapat melakukan diagnosis awal terhadap gejala yang diderita serta pengobatannya melalui Sistem Pakar. Pada penelitian ini sistem pakar menggunakan metode kepastian faktor yang dapat memberikan kepastian suatu fakta. Perhitungan dilakukan berdasarkan nilai keyakinan seorang ahli terhadap gejala suatu penyakit. Sistem pakar yang dihasilkan diberi nama Diagperosif dimana sistem mendiagnosis penyakit berdasarkan gejala yang dimasukkan oleh pengguna. Penyakit yang dapat didiagnosis dengan Diagperosif adalah asma, bronkitis, polisi, dan kanker paru-paru.
 <br>[Prediksi Terkena Penyakit Paru-paru] (https://www.kaggle.com/datasets/andot03bsrc/dataset-predic-terkena-penyakit-paruparu/data).</br>
 
-### Variabel-variabel  Prediksi BodyFat(Lemak Tubuh) adalah sebagai berikut:
+### Variabel-variabel PREDIC TERKENA PENYAKIT PARU-PARU adalah sebagai berikut:
 | No | Nama Variable    | Keterangan |Type Data|
 |----|------------------|-----------|------------|
 |1| No | (1-30rb)|(int64)|
