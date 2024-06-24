@@ -1,10 +1,10 @@
-# Laporan Proyek Machine Learning
+# Laporan Final Project Machine Learning
 
 ### Nama : Putri Carellilas Fony
 
 ### Nim : 211351113
 
-### Kelas : Pagi A
+### Kelas : TIF Pagi A
 
 ## Domain Proyek
 
